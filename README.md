@@ -10,5 +10,5 @@ Talking Bin adalah istilah untuk tempat sampah yang mempunyai tambahan fitur dan
 ## Tampilan
 ![Talking-Bin-Smart-Bin-](https://github.com/maulanaakbardj/Talking-Bin-Smart-Bin-/blob/c7ca7b452548851f2bddaf8e8841cf128caa2e8a/image/depan.PNG)
 ![Talking-Bin-Smart-Bin-](https://github.com/maulanaakbardj/Talking-Bin-Smart-Bin-/blob/c7ca7b452548851f2bddaf8e8841cf128caa2e8a/image/belakang.PNG)
-## Demo
+## Video Demo
 [![Talking-Bin-Smart-Bin-](https://img.youtube.com/vi/kVEIxs6boDo/0.jpg)](https://www.youtube.com/watch?v=kVEIxs6boDo.)

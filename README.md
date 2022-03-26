@@ -1,4 +1,4 @@
-# Talking Bin Smart Bin
+# Talking Smart Bin
 Talking Bin adalah istilah untuk tempat sampah yang mempunyai tambahan fitur dan fungsi pada sebuah tempat sampah.  Alat ini menggunakan bantuan sensor ultrasonik dan diproses menggunakan arduino yang lalu arduino ini akan mengirimkan instruksi untuk mengaktifkan suara  pada module micro sd dan akan diteruskan ke speaker untuk mengahasilkan output suara.
 
 ## Storyboard
